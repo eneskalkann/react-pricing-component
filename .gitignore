@@ -5,7 +5,6 @@
 /.pnp
 .pnp.js
 
-*.css linguist-detectable=false
 
 # testing
 /coverage
