@@ -1,4 +1,4 @@
-[LIVE DEMO](https://eneskalkann-expenses-chart-component.vercel.app/)
+[LIVE DEMO](https://react-pricing-component-eneskalkann.vercel.app/)
 
 # Getting Started with Create React App
 
